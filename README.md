@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:93c5fd&height=200&section=header&text=Sumanth%20Kumar%20Sivadi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20Leader%20|%20Healthcare%20%26%20FinTech%20Analytics&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:93c5fd&height=200&section=header&text=Sumanth%20Kumar%20Sivadi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20Leader%20%7C%20Healthcare%20and%20FinTech%20Analytics&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
@@ -321,4 +321,26 @@ mindmap
 - **Containerization**: Docker deployment for scalable infrastructure
 - **Design Patterns**: Industry-standard architectural patterns for maintainability
 
-**Technologies**: Java, HTML, Docker,
+**Technologies**: Java, HTML, Docker, Enterprise Patterns
+
+🔗 **[View Project](https://github.com/SumanthKumar00/DogsManagementSystem)**
+
+---
+
+## 📫 LET'S CONNECT
+
+<div align="center">
+
+I'm always interested in discussing **data engineering challenges**, **healthcare analytics**, **cloud architecture**, or **career opportunities** in the data space.
+
+[![Email](https://img.shields.io/badge/Email-sumanthkumar.sivadi%40gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sumanthkumar.sivadi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumanthkumarsivadi/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SumanthKumar00)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:93c5fd&height=120&section=footer" width="100%"/>
+</div>
