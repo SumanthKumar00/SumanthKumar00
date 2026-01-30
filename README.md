@@ -6,7 +6,7 @@
   
   ### 🎯 Strategic Data Engineering Leader | Driving Business Value Through Scalable Analytics Solutions
   
-  [![Email](https://img.shields.io/badge/Email-sumanthkumar.sivadi%40gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sumanthkumar.sivadi@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-sivadisumanthkumar%40gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sivadisumanthkumar@gmail.com)
   [![Phone](https://img.shields.io/badge/Phone-(470)%20252--6919-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:4702526919)
   [![Location](https://img.shields.io/badge/Location-Georgia,%20USA-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Georgia)
   
@@ -176,6 +176,7 @@ timeline
 ## 💡 TECHNICAL LEADERSHIP STACK
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#1e3a8a', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#3b82f6', 'lineColor': '#60a5fa', 'secondaryColor': '#1e40af', 'tertiaryColor': '#2563eb', 'background': '#0f172a', 'mainBkg': '#1e3a8a', 'secondBkg': '#1e40af', 'nodeBorder': '#3b82f6', 'clusterBkg': '#1e3a8a', 'titleColor': '#ffffff', 'edgeLabelBackground': '#1e3a8a'}}}%%
 mindmap
   root((Sumanth Kumar<br/>Sivadi))
     Cloud Platforms
@@ -333,7 +334,7 @@ mindmap
 
 I'm always interested in discussing **data engineering challenges**, **healthcare analytics**, **cloud architecture**, or **career opportunities** in the data space.
 
-[![Email](https://img.shields.io/badge/Email-sumanthkumar.sivadi%40gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sumanthkumar.sivadi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sivadisumanthkumar%40gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sivadisumanthkumar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumanthkumarsivadi/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SumanthKumar00)
 
