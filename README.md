@@ -176,7 +176,6 @@ timeline
 ## 💡 TECHNICAL LEADERSHIP STACK
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#1e3a8a', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#3b82f6', 'lineColor': '#60a5fa', 'secondaryColor': '#1e40af', 'tertiaryColor': '#2563eb', 'background': '#0f172a', 'mainBkg': '#1e3a8a', 'secondBkg': '#1e40af', 'nodeBorder': '#3b82f6', 'clusterBkg': '#1e3a8a', 'titleColor': '#ffffff', 'edgeLabelBackground': '#1e3a8a'}}}%%
 mindmap
   root((Sumanth Kumar<br/>Sivadi))
     Cloud Platforms
