@@ -177,20 +177,7 @@ timeline
 
 ```mermaid
 mindmap
-  root((Sumanth Kumar<br/>Sivadi))
-    Cloud Platforms
-      Azure Ecosystem
-        Data Factory
-        Synapse Analytics
-        Databricks
-        Data Lake Storage
-      AWS Services
-        Glue
-        Redshift
-        S3 Lake Formation
-        EMR Athena
-      Snowflake
-      Microsoft Fabric
+  root((Sumanth Kumar Sivadi))
     Data Engineering
       Apache Spark
       PySpark
@@ -199,6 +186,14 @@ mindmap
       Apache Kafka
       Apache NiFi
       dbt Delta Lake
+    Cloud Platforms
+      Azure Data Factory
+      Azure Synapse
+      Azure Databricks
+      AWS Glue
+      AWS Redshift
+      Snowflake
+      Microsoft Fabric
     Programming
       Python
       SQL
