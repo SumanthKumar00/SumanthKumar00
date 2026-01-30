@@ -175,72 +175,38 @@ timeline
 
 ## 💡 TECHNICAL LEADERSHIP STACK
 
-<div align="center">
-
-| **☁️ Cloud Platforms** | **⚙️ Data Engineering** | **💻 Programming** |
-|:---:|:---:|:---:|
-| Azure Data Factory | Apache Spark | Python |
-| Azure Synapse Analytics | PySpark | SQL |
-| Azure Databricks | Hadoop HDFS | Java |
-| AWS Glue | MapReduce | |
-| AWS Redshift | Apache Kafka | |
-| Snowflake | Apache NiFi | |
-| Microsoft Fabric | dbt & Delta Lake | |
-
-| **📊 Analytics Tools** | **🗄️ Databases** | **📈 Data Science** |
-|:---:|:---:|:---:|
-| Tableau | SQL Server | Pandas & NumPy |
-| Power BI | PostgreSQL | Scikit-Learn |
-| Advanced Excel | MySQL | Matplotlib |
-| | MongoDB | Statistics |
-
-</div>
-
 ```mermaid
-graph LR
-    subgraph Cloud["☁️ Cloud Platforms"]
-        A1[Azure Data Factory]
-        A2[Azure Synapse]
-        A3[Azure Databricks]
-        A4[AWS Glue]
-        A5[AWS Redshift]
-        A6[Snowflake]
-    end
-    
-    subgraph Engineering["⚙️ Data Engineering"]
-        B1[Apache Spark]
-        B2[PySpark]
-        B3[Hadoop HDFS]
-        B4[Apache Kafka]
-        B5[Apache NiFi]
-        B6[Delta Lake]
-    end
-    
-    subgraph Programming["💻 Programming"]
-        C1[Python]
-        C2[SQL]
-        C3[Java]
-    end
-    
-    subgraph Analytics["📊 Analytics"]
-        D1[Tableau]
-        D2[Power BI]
-        D3[Excel]
-    end
-    
-    subgraph Databases["🗄️ Databases"]
-        E1[SQL Server]
-        E2[PostgreSQL]
-        E3[MongoDB]
-        E4[MySQL]
-    end
-    
-    subgraph DataScience["📈 Data Science"]
-        F1[Pandas]
-        F2[NumPy]
-        F3[Scikit-Learn]
-        F4[Matplotlib]
-    end
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryTextColor': '#000000', 'secondaryTextColor': '#000000', 'tertiaryTextColor': '#000000'}}}%%
+mindmap
+  root((Technical Skills))
+    Cloud
+      Azure
+      AWS
+      Snowflake
+      Databricks
+    BigData
+      Spark
+      PySpark
+      Hadoop
+      Kafka
+      NiFi
+    Code
+      Python
+      SQL
+      Java
+    Analytics
+      Tableau
+      PowerBI
+      Excel
+    Database
+      SQLServer
+      PostgreSQL
+      MySQL
+      MongoDB
+    ML
+      Pandas
+      NumPy
+      ScikitLearn
 ```
 
 ---
