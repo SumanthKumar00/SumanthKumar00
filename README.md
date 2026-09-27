@@ -160,16 +160,44 @@ mindmap
 
 ---
 
-## 🌟 FEATURED PROJECT
+## 🌟 FEATURED PROJECTS
 
-### 📊 **VisionStack: Business Growth Analytics Platform**
+### 🤖 **GenAI / Agentic Systems**
 
-**Stack:** Python, PySpark, SQL, Databricks, Apache Spark, Git
+**[strategiz-agent](https://github.com/SumanthKumar00/strategiz-agent)** · Python · MIT License
+A Python-based agent project.
 
-- Built a scalable big data pipeline with **PySpark and Databricks**, processing millions of customer and product records from CSV, JSON, and Parquet sources into a unified analytics model
-- Designed SQL ETL workflows with deduplication, normalization, and validation, generating KPIs for quarterly sales trends, product performance, and customer segmentation
+**[Doclify](https://github.com/SumanthKumar00/Doclify)** · Python · AGPL-3.0
+An AI-powered CLI tool that automatically generates professional README documentation by analyzing a codebase, using fast open-source LLMs via the **Groq API**.
 
-🔗 **[View Project](https://github.com/kartikeya-datta/VisionStack)**
+**[Multi-Agentic-Blog-Generation](https://github.com/SumanthKumar00/Multi-Agentic-Blog-Generation)** · Python · MIT License
+An autonomous AI-powered blogging platform that generates, formats, and publishes technical articles using **LangGraph workflows** and **Groq LLMs**, with automated deployment to a static website.
+
+**[southstar-ai-copilot](https://github.com/SumanthKumar00/southstar-ai-copilot)** · Python
+An AI copilot project.
+
+**[self-tool-agent](https://github.com/SumanthKumar00/self-tool-agent)** · Python
+A self-tool-use agent project.
+
+**[resilient-llm-gateway](https://github.com/SumanthKumar00/resilient-llm-gateway)** · Python
+A middleware layer for LLM calls with retry, automatic failover, and circuit breaker logic.
+
+**[self-healing-rag](https://github.com/SumanthKumar00/self-healing-rag)** · Python
+A RAG pipeline that critiques and retries its own answers, built and evaluated on a real SEC 10-K filing.
+
+### 📊 **Machine Learning & Analytics**
+
+**[Heart-Disease-Prediction](https://github.com/SumanthKumar00/Heart-Disease-Prediction)** · Jupyter Notebook · GPL-3.0
+An end-to-end machine learning project that predicts heart disease risk using clinical data, featuring multiple models, experiment tracking, and a **Flask**-based web app for real-time predictions.
+
+**[Diamond-Price-Prediction](https://github.com/SumanthKumar00/Diamond-Price-Prediction)** · Jupyter Notebook · GPL-3.0
+An end-to-end machine learning project that predicts diamond prices using regression models, with experiment tracking via **MLflow** and a Flask-based web app for real-time predictions.
+
+**[promo-segmentation-analytics](https://github.com/SumanthKumar00/promo-segmentation-analytics)** · Python
+Simulated customer segmentation and discount analytics using Python, Matplotlib, and Excel reporting.
+
+**[VisionStack: Business Growth Analytics Platform](https://github.com/kartikeya-datta/VisionStack)** · Python, PySpark, SQL, Databricks, Apache Spark, Git
+Built a scalable big data pipeline with PySpark and Databricks, processing millions of customer and product records from CSV, JSON, and Parquet sources into a unified analytics model, with SQL ETL workflows generating KPIs for sales trends, product performance, and customer segmentation.
 
 ---
 
