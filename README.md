@@ -7,7 +7,7 @@
   ### 🤖 AI/ML Engineer | Healthcare & Financial Services AI Solutions
 
   [![Email](https://img.shields.io/badge/Email-sivadisumanthkumar%40gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sivadisumanthkumar@gmail.com)
-  [![Phone](https://img.shields.io/badge/Phone-(408)%20758--1287-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:4087581287)
+  [![Phone](https://img.shields.io/badge/Phone-(408)%20758--1287-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+1(408)758-1287)
   [![Location](https://img.shields.io/badge/Location-Fremont,%20CA-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Fremont,+CA)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumanth-sivadi/)
 
